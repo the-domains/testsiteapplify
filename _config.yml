@@ -2,6 +2,7 @@ name: TestSiteApplify
 favicon: null
 layout_spectrum: 0.2494
 typography_spectrum: 0.14015
+title: Testing this out
 cta:
   domain: null
   bucket: null
