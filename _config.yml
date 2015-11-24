@@ -1,7 +1,7 @@
 name: TestSiteApplify
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.34543
+typography_spectrum: 0
 title: Testing this out
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f27934'
     - '#212c5f'
-    - '#000000'
+    - '#f27934'
+    - '#000033'
     - '#ff0000'
-    - '#800000'
+    - '#bf4000'
   brandStrength: 1
-  lightness: 0.44432587758637965
-  saturation: 0.27943774755112827
-  rhythmicContrast: 0.8597948173992336
+  lightness: 0.375
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
